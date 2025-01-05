@@ -14,11 +14,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
 <div>
-    <a href="https://www.loom.com/share/8606a2935d0849b2b0d0d66246d06bd8">
-      <p>ios101-prework - Watch Video</p>
-    </a>
     <a href="https://www.loom.com/share/8606a2935d0849b2b0d0d66246d06bd8">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8606a2935d0849b2b0d0d66246d06bd8-9c2019b47083ea2c-full-play.gif">
     </a>
@@ -28,9 +24,12 @@ The following **required** functionality is completed:
 Duolingo
 - friend streaks
 - daily quests
+
 iMessage
 - text and screen effects
 - mark message as unread
+
+
 Spotify
 - curated playlists with song recs
 - create blends with friends
