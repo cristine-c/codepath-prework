@@ -34,6 +34,8 @@ Spotify
 - curated playlists with song recs
 - create blends with friends
 
+I would like to build an app that allows the user to keep track of their skincare/beauty products and also document their journey using selfies to record their efficacy. Users would be able to list the products they used for their daytime and nighttime routines. They would also be able to browse through their selfies in chronological order to see how each product has impacted their skin's health. Users would also be able to organize their products by type (cleansers, toners, etc.) and expiration or purchase date.
+
 ## Notes
 
 I had trouble navigating the Xcode IDE to correctly connect logic to the button.
